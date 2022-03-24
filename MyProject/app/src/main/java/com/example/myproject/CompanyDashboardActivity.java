@@ -1,4 +1,6 @@
 package com.example.myproject;
 
-public class CompanyDashboardActivity {
+import androidx.appcompat.app.AppCompatActivity;
+
+public class CompanyDashboardActivity extends AppCompatActivity {
 }
