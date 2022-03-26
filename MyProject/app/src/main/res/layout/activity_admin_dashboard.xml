@@ -48,7 +48,8 @@
 
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintEnd_toEndOf="parent" />
+            app:layout_constraintEnd_toEndOf="parent"
+            tools:layout="@layout/fragment_home" />
         <!--app:navGraph="@navigation/admin_navigation"-->
 
     </androidx.coordinatorlayout.widget.CoordinatorLayout>
