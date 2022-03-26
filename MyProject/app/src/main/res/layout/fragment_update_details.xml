@@ -5,7 +5,10 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_gravity="center"
-    tools:context=".UpdateDetailsFragment">
+
+    tools:context=".UpdateDetailsFragment"
+
+    tools:context=".fragments.UpdateDetailsFragment">
 
     <ScrollView
         android:layout_width="match_parent"

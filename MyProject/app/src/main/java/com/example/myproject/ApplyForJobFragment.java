@@ -7,4 +7,7 @@ import androidx.annotation.RequiresApi;
 
 @RequiresApi(api = Build.VERSION_CODES.P)
 public class ApplyForJobFragment extends AppComponentFactory {
+
+public class ApplyForJobFragment {
+
 }
