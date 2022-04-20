@@ -26,6 +26,11 @@ public class AdminActivity extends AppCompatActivity{
 
             }
         });
-        
+        signup.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                setContentView(R.layout.activity_admin_sign_up);
+            }
+        });
     }
 }
