@@ -32,7 +32,9 @@ public class AboutUsActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Uri uri = Uri.parse("https://www.linkedin.com/in/akshay-jindal-483bb3167/");
+                
                 Intent intent = new Intent(Intent.ACTION_VIEW, uri);
+                
                 startActivity(intent);
             }
         });
