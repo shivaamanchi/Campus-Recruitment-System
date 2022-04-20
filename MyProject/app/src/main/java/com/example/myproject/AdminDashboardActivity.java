@@ -133,5 +133,7 @@ public class AdminDashboardActivity extends AppCompatActivity {
         userEmailId.setText(currentUser.getEmail());
     }
 
-    
+    public void updateUserName(String name){
+        userName.setText(name);
+    }
 }
