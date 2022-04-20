@@ -4,7 +4,6 @@ import android.content.Context;
 import android.net.ConnectivityManager;
 
 public class Utils {
-
     public static enum AccountType{
         STUDENT, COMPANY, ADMIN;
     }
