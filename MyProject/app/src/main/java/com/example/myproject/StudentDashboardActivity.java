@@ -10,6 +10,7 @@ import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
+
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.navigation.NavController;
@@ -121,8 +122,10 @@ public class StudentDashboardActivity extends AppCompatActivity {
                         public void onClick(DialogInterface dialog, int which) {
                             dialog.cancel();
                         }
+                        
                     }).create().show();
         } else if(item.getItemId() == R.id.about_us){
+            
             startActivity(new Intent(this, AboutUsActivity.class));
         }
         return super.onOptionsItemSelected(item);
@@ -130,6 +133,7 @@ public class StudentDashboardActivity extends AppCompatActivity {
 
     @Override
     public boolean onSupportNavigateUp() {
+        
 //        NavController navController = Navigation.findNavController(this, R.id.student_fragment_container_view_tag);
         if(isBlocked)
             return true;
