@@ -13,11 +13,7 @@ public class StudentSignUpActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_student_sign_up);
-
-
         signup = findViewById(R.id.signUpButton1);
-
-
         signup.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
