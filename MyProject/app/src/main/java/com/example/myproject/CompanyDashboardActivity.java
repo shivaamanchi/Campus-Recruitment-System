@@ -1,6 +1,6 @@
 package com.example.myproject;
 
-mport android.content.DialogInterface;
+import android.content.DialogInterface;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -104,7 +104,6 @@ public class CompanyDashboardActivity extends AppCompatActivity {
         }
         return super.onOptionsItemSelected(item);
     }
-
     @Override
     public boolean onSupportNavigateUp() {
 //        NavController navController = Navigation.findNavController(this, R.id.company_fragment_container_view_tag);
