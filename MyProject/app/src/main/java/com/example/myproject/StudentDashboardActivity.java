@@ -16,7 +16,6 @@ import androidx.navigation.NavController;
 import androidx.navigation.Navigation;
 import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
-
 import com.example.myproject.AboutUsActivity;
 import com.example.myproject.MainActivity;
 import com.example.myproject.R;
@@ -29,7 +28,6 @@ import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
-
 import org.jetbrains.annotations.NotNull;
 
 public class StudentDashboardActivity extends AppCompatActivity {
@@ -93,9 +91,6 @@ public class StudentDashboardActivity extends AppCompatActivity {
         userEmailId.setText(currentUser.getEmail());
 
     }
-
-
-
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.log_out_menu, menu);
