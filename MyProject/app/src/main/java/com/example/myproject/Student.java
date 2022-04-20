@@ -25,6 +25,7 @@ public class Student extends AppCompatActivity {
             }
         });
         signup.setOnClickListener(new View.OnClickListener() {
+            
             @Override
             public void onClick(View v) {
                 setContentView(R.layout.activity_student_sign_up);
