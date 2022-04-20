@@ -3,7 +3,6 @@ package com.example.myproject;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-
 import androidx.appcompat.app.AppCompatActivity;
 
 public class Company extends AppCompatActivity {
@@ -14,9 +13,7 @@ public class Company extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_company);
         login = findViewById(R.id.login_button2);
-
         signup = findViewById(R.id.new_account_button2);
-
         login.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
