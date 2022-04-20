@@ -125,12 +125,7 @@ public class CompanyDashboardActivity extends AppCompatActivity {
 
         rootRef = FirebaseDatabase.getInstance().getReference().child("Company").child(mAuth.getCurrentUser().getUid());
         rootRef.addListenerForSingleValueEvent(new ValueEventListener() {
-            @Override
-            public void onDataChange(@NonNull @NotNull DataSnapshot snapshot) {
-                String full_name = snapshot.child("Profile").child("full_name").getValue().toString();
-                userName.setText(full_name);
-                PreferenceManager.getDefaultSharedPreferences(getApplicationContext()).edit().putString("full_name",full_name).apply();
-            }
+            
 
             @Override
             public void onCancelled(@NonNull @NotNull DatabaseError error) {
