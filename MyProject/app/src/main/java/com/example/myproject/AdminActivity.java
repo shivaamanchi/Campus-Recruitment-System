@@ -22,8 +22,6 @@ public class AdminActivity extends AppCompatActivity{
             @Override
             public void onClick(View v) {
                 setContentView(R.layout.activity_admin_dashboard);
-
-
             }
         });
         signup.setOnClickListener(new View.OnClickListener() {
