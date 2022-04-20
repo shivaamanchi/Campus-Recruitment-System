@@ -20,7 +20,7 @@ import androidx.navigation.Navigation;
 import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 
-import com.example.campusrecruitmentsystem.AboutUsActivity;
+import com.example.myproject.AboutUsActivity;
 import com.example.myproject.MainActivity;
 import com.example.myproject.R;
 import com.example.myproject.Utils;
@@ -76,31 +76,7 @@ public class AdminDashboardActivity extends AppCompatActivity {
         return true;
     }
 
-    @Override
-    public boolean onOptionsItemSelected(@NonNull MenuItem item) {
-        if(item.getItemId() == R.id.log_out){
-            AlertDialog.Builder alertDialog = new AlertDialog.Builder(this);
-            alertDialog.setMessage("Do you want to log out?").setTitle("LOG OUT")
-                    .setCancelable(true)
-                    .setPositiveButton("Yes", new DialogInterface.OnClickListener() {
-                        @Override
-                        public void onClick(DialogInterface dialog, int which) {
-                            mAuth.getInstance().signOut();
-                            startActivity(new Intent(AdminDashboardActivity.this,
-                                    MainActivity.class).setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP));
-                        }
-                    })
-                    .setNegativeButton("No", new DialogInterface.OnClickListener() {
-                        @Override
-                        public void onClick(DialogInterface dialog, int which) {
-                            dialog.cancel();
-                        }
-                    }).create().show();
-        } else if(item.getItemId() == R.id.about_us){
-            startActivity(new Intent(this, AboutUsActivity.class));
-        }
-        return super.onOptionsItemSelected(item);
-    }
+    
 
     @Override
     public boolean onSupportNavigateUp() {
