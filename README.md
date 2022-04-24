@@ -15,6 +15,7 @@ Activates:
 2.	Admin Login/ Admin Registration
 3.	Student Login/ Student Registration
 4.	Company Login/ Company Registration
-5.	Admin Home Screen
-6.	Student Home Screen
-7.	Company Home Screen 
+5.	Super Admin Home Screen
+6.	Admin Home Screen
+7.	Student Home Screen
+8.	Company Home Screen 
