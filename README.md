@@ -8,9 +8,13 @@ This project provides efficient and effective way of communication between stude
 •	Provide best security.
 •	Time saving.
 •	Easy to operate and work with.
+
 Issues:
+
 Their will be an Duplicate applications and fake Companies to avoid those issues we are creating a Admin to look into this issues, Admin will remove the duplicate applications and do not approve the fake companies in the app.
+
 Activates:
+
 1.	Home Screen
 2.	Login(Admin, Student, Company)
 3.	Admin Registration
