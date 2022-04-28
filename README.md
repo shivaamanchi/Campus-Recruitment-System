@@ -1,12 +1,19 @@
 # Campus-Recruitment-System
 
 Description:
+
 This project provides efficient and effective way of communication between students and training and placement cell. 
+
 •	User friendly interface.
+
 •	Easy accessible.
+
 •	Easy modification.
+
 •	Provide best security.
+
 •	Time saving.
+
 •	Easy to operate and work with.
 
 Issues:
