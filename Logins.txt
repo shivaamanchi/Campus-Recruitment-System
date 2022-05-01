@@ -1,0 +1,15 @@
+Super Admin Login:
+superadmin5@yopmail.com
+pass: 123456
+
+Admin Login:
+shiva.amanchi303@gmail.com
+pass: Shiva222@
+
+Student Login:
+shiva.amanchi298@gmail.com
+pass: Shiva222@
+
+Company Login:
+verizon@verizon.in
+pass: Shiva222@
