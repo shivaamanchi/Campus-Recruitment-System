@@ -31,3 +31,13 @@ Activates:
 7.	Admin Home Screen
 8.	Student Home Screen
 9.	Company Home Screen 
+
+Steps to Run the Application:
+
+Step-1: Open the Android Studio and run the file.
+
+Step-2: Home Screen will appear.
+
+![Home_Screen](https://user-images.githubusercontent.com/89273480/166394701-f4bebad8-f40d-47ff-b488-6585b0da1eea.PNG)
+
+
