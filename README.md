@@ -40,4 +40,13 @@ Step-2: Home Screen will appear.
 
 ![Home_Screen](https://user-images.githubusercontent.com/89273480/166394701-f4bebad8-f40d-47ff-b488-6585b0da1eea.PNG)
 
+Step-3: Click on creat new account for Admin, Student, Company which you want.
+
+![Admin_signup](https://user-images.githubusercontent.com/89273480/166395802-99bdd3e6-e75a-4b35-b3aa-4783061adbe5.PNG)
+
+![student_signup](https://user-images.githubusercontent.com/89273480/166395831-7a171037-f59e-4216-b392-346509efb0d6.PNG)
+
+![company_signup](https://user-images.githubusercontent.com/89273480/166395862-19310389-762f-43c7-881d-2e6270514272.PNG)
+
+
 
