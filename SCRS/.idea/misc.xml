@@ -3,13 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/S545603/AndroidStudioProjects/Project/Campus-Recruitment-System/SCRS/app/src/main/res/layout/activity_about_us.xml" value="0.16530797101449277" />
+        <entry key="..\:/Users/S545603/AndroidStudioProjects/Project/Campus-Recruitment-System/SCRS/app/src/main/res/layout/activity_about_us.xml" value="0.4" />
         <entry key="..\:/Users/S545603/AndroidStudioProjects/Project/Campus-Recruitment-System/SCRS/app/src/main/res/layout/activity_admin_dashboard.xml" value="0.2" />
         <entry key="..\:/Users/S545603/AndroidStudioProjects/Project/Campus-Recruitment-System/SCRS/app/src/main/res/layout/activity_main.xml" value="0.16530797101449277" />
-        <entry key="..\:/Users/S545603/AndroidStudioProjects/Project/Campus-Recruitment-System/SCRS/app/src/main/res/layout/activity_student_dashboard.xml" value="0.16530797101449277" />
+        <entry key="..\:/Users/S545603/AndroidStudioProjects/Project/Campus-Recruitment-System/SCRS/app/src/main/res/layout/activity_sign_up.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/S545603/AndroidStudioProjects/Project/Campus-Recruitment-System/SCRS/app/src/main/res/layout/activity_splash_screen.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/S545603/AndroidStudioProjects/Project/Campus-Recruitment-System/SCRS/app/src/main/res/layout/activity_student_dashboard.xml" value="0.2" />
         <entry key="..\:/Users/S545603/AndroidStudioProjects/Project/Campus-Recruitment-System/SCRS/app/src/main/res/layout/activity_super_admin_dashboard.xml" value="0.16530797101449277" />
+        <entry key="..\:/Users/S545603/AndroidStudioProjects/Project/Campus-Recruitment-System/SCRS/app/src/main/res/layout/fragment_apply_for_job.xml" value="0.13020833333333334" />
         <entry key="..\:/Users/S545603/AndroidStudioProjects/Project/Campus-Recruitment-System/SCRS/app/src/main/res/layout/fragment_home.xml" value="0.16530797101449277" />
+        <entry key="..\:/Users/S545603/AndroidStudioProjects/Project/Campus-Recruitment-System/SCRS/app/src/main/res/layout/fragment_manage_company.xml" value="0.13020833333333334" />
         <entry key="..\:/Users/S545603/AndroidStudioProjects/Project/Campus-Recruitment-System/SCRS/app/src/main/res/layout/fragment_manage_student.xml" value="0.16530797101449277" />
+        <entry key="..\:/Users/S545603/AndroidStudioProjects/Project/Campus-Recruitment-System/SCRS/app/src/main/res/layout/item_applied_student.xml" value="0.13020833333333334" />
         <entry key="..\:/Users/S545603/AndroidStudioProjects/Project/Campus-Recruitment-System/SCRS/app/src/main/res/layout/item_company.xml" value="0.16530797101449277" />
         <entry key="..\:/Users/S545603/AndroidStudioProjects/Project/Campus-Recruitment-System/SCRS/app/src/main/res/layout/item_job_listing.xml" value="0.16530797101449277" />
         <entry key="..\:/Users/S545603/AndroidStudioProjects/Project/Campus-Recruitment-System/SCRS/app/src/main/res/layout/loading_layout.xml" value="0.16530797101449277" />
